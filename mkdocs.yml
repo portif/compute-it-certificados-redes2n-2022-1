@@ -1,0 +1,31 @@
+site_name: Certificados Compute It
+site_author: Redes2N, IFRN campus Parnamirim
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: greeen
+
+nav:
+  - Início: index.md
+  - adriano-paulo-da-silva.md
+  - alana-priscila-dantas-soares.md
+  - alcides-barros-da-silva.md
+  - carlos-andre-adelino-de-lima.md
+  - clarice-helena-gomes-de-souza.md
+  - claudemi-silva-de-almeida.md
+  - eduardo-florencio-de-andrade.md
+  - inacio-alves-de-oliveira-neto.md
+  - iuri-da-silva-lima.md
+  - jasna-de-oliveira-batista.md
+  - jefferson-bezerra-ferreira.md
+  - jonas-bezerra-do-carmo.md
+  - livia-de-oliveira-ribeiro.md
+  - marcos-antonio-da-silva.md
+  - pedro-lucas-serafim-pereira.md
+  - pedro-mendes-de-oliveira.md
+  - tarcio-jordan-maciel-de-pontes.md
+  - vagner-luiz-de-oliveira-ferreira.md
+  - wanderson-nascimento-de-lima.md
+  - weidson-pereira-de-morais.md
